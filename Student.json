@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "646de22d62140dd7ca47f80f"
+  },
+  "name": "Nguyen Duc Anh",
+  "gender": "Male",
+  "DOB": "2003-03-18",
+  "GPA": 9.5,
+  "image": "https://th.bing.com/th/id/R.d03ae745631580df00bd0e84bbd1ff87?rik=JLtpHeqeLc0KFA&riu=http%3a%2f%2fthuthuatphanmem.vn%2fuploads%2f2018%2f08%2f21%2fhinh-nen-thien-nhien-phong-canh-dep-45_043158941.jpg&ehk=20KtCt%2bxMWXwidNFuPz4NgV7sLC8LkPPj%2foIgh31I9c%3d&risl=&pid=ImgRaw&r=0"
+},{
+  "_id": {
+    "$oid": "646de22d62140dd7ca47f810"
+  },
+  "name": "Nguyen Duc Anh",
+  "gender": "Male",
+  "DOB": "2003-03-18",
+  "GPA": 9.5,
+  "image": "https://th.bing.com/th/id/R.d03ae745631580df00bd0e84bbd1ff87?rik=JLtpHeqeLc0KFA&riu=http%3a%2f%2fthuthuatphanmem.vn%2fuploads%2f2018%2f08%2f21%2fhinh-nen-thien-nhien-phong-canh-dep-45_043158941.jpg&ehk=20KtCt%2bxMWXwidNFuPz4NgV7sLC8LkPPj%2foIgh31I9c%3d&risl=&pid=ImgRaw&r=0"
+},{
+  "_id": {
+    "$oid": "646de22d62140dd7ca47f811"
+  },
+  "name": "Nguyen Duc Anh",
+  "gender": "Male",
+  "DOB": "2003-03-18",
+  "GPA": 9.5,
+  "image": "https://th.bing.com/th/id/R.d03ae745631580df00bd0e84bbd1ff87?rik=JLtpHeqeLc0KFA&riu=http%3a%2f%2fthuthuatphanmem.vn%2fuploads%2f2018%2f08%2f21%2fhinh-nen-thien-nhien-phong-canh-dep-45_043158941.jpg&ehk=20KtCt%2bxMWXwidNFuPz4NgV7sLC8LkPPj%2foIgh31I9c%3d&risl=&pid=ImgRaw&r=0"
+}]

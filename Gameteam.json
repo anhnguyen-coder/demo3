@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "646dd27842b4dc48192bbd2a"
+  },
+  "Roles": "Mid",
+  "age": 30,
+  "Membername": "Faker",
+  "Teamname": "SKT T1"
+},{
+  "_id": {
+    "$oid": "646dd27842b4dc48192bbd2b"
+  },
+  "Roles": "Mid",
+  "age": 25,
+  "Membername": "Chovy",
+  "Teamname": "GenG"
+}]
